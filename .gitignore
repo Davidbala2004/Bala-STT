@@ -1,0 +1,15 @@
+node_modules/
+.next/
+venv/
+__pycache__/
+.env
+.env.local
+*.log
+.DS_Store
+*.wasm
+*.onnx
+*.bin
+*.data
+*.zip
+*.tar.bz2
+frontend/public/sherpa-onnx/
